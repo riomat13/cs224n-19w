@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+
+.DS_Store
+
+logs/
+models/
+outputs/
+
+*en_es_data/
+vocab.json
+
+model.bin*
+
+collect_submission.sh
