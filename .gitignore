@@ -6,6 +6,10 @@ __pycache__/
 logs/
 models/
 outputs/
+datasets/
+imgs/
+*.npy
+*.pickle
 
 *en_es_data/
 vocab.json
